@@ -1,0 +1,96 @@
+<html>
+    <head>
+        <title>TASK06</title>
+        <style>
+            table th,tr,td{
+                color: black;
+                border: 1px solid black;
+                padding: 25px 85px 25px 85px;
+            }
+            table{
+               border-collapse: collapse; 
+            }
+            h1{
+                text-align: center;
+                color: black;
+                background-color: orange;
+            }
+            th{
+                background-color: pink;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Summer Camp Schedule</h1>
+        <table>
+            <tr>
+                <th style="background-color:yellow; font-size: 30px;" colspan="6">Summer Camp Schedule</th>
+            </tr>
+            <tr>
+                <th>Monday</th>
+                <th>Tuesday</th>
+                <th>Wednesday</th>
+                <th>Thursday</th>
+                <th>Friday</th>
+                <th>Saturday</th>
+            </tr>
+         
+            <tr>
+                <th>1</th>
+                <th>2</th>
+                <th>3</th>
+                <th>4</th>
+                <th>5</th>
+                <th>6</th>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+        </table>
+    </body>
+</html>
